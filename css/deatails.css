@@ -1,0 +1,42 @@
+.Deatalis{
+    margin: 150px 100px;
+    color: #232323;
+}
+.deatails-content{
+    padding: 10px 50px;
+}
+.Deatalis h3{
+    margin-bottom: 20px;
+}
+.Deatalis h2{
+    margin-bottom: 20px;
+}
+.Deatalis p{
+    margin-bottom: 20px;
+}
+.deatails-content input {
+    margin-bottom: 15px;
+    border: none;
+    border-bottom: 1px solid #232323;
+    padding: 5px 10px;
+}
+.deatails-content button{
+    border: none;
+    background-color:  rgba(101, 125, 229, 0.854);
+    color: white;
+    border-radius: 30px;
+    padding: 10px 15px;
+    margin: 25px 0;
+    align-items: center;
+}
+.deatails-content a{
+    color: #232323;
+}
+.deatails-content a:hover{
+    color:  rgba(101, 125, 229, 0.854);
+}
+.deatails-content img{
+    margin-top: 20px;
+    max-width: 130px;
+    max-width: 130px;
+}

@@ -1,0 +1,25 @@
+.Features{
+    margin: 50px;
+    background-color: rgb(207, 208, 209);
+    border-radius: 30px;
+    padding: 20px;
+    transition: tranform 0.9s,  background-color 0.9s, color 0.9s ease;
+}
+.Features:hover{
+    background-color: rgb(69, 67, 67);
+    color: white;
+}
+.Features .row{
+    margin-bottom: 10px;
+
+}
+.Features .row h5{
+    margin-bottom: 75px;
+    border-bottom: 1px solid black;
+
+}
+
+.Features .row h4{
+    margin-bottom: 50px;
+    border-bottom: 1px solid black;
+}
